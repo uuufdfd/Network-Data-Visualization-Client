@@ -1,5 +1,5 @@
-#include "mainwindow.h"
-#include "studentdialog.h"
+#include "MainWindow.h"
+#include "StudentDialog.h"
 
 #include <QAction>
 #include <QApplication>

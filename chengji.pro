@@ -4,12 +4,12 @@ CONFIG += c++17
 
 SOURCES += \
     main.cpp \
-    mainwindow.cpp \
-    studentmanager.cpp \
-    studentdialog.cpp
+    MainWindow.cpp \
+    StudentManager.cpp \
+    StudentDialog.cpp
 
 HEADERS += \
-    mainwindow.h \
+    MainWindow.h \
     Student.h \
-    studentmanager.h \
-    studentdialog.h
+    StudentManager.h \
+    StudentDialog.h
