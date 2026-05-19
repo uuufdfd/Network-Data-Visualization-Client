@@ -1,0 +1,9 @@
+build/
+debug/
+release/
+*.exe
+*.user
+*.o
+*.obj
+Makefile
+.vscode/
